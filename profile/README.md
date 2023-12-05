@@ -13,4 +13,3 @@ The projects to be described will be:
 * Symbolics Graphics
 * PDFtalk Extract
 * [Smalltalk Transform Project](https://wiki.pdftalk.de/doku.php?id=smalltalktransform)
-* (maybe ByteStream)
