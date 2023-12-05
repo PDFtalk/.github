@@ -10,6 +10,6 @@ The projects to be described will be:
 * [Values](https://wiki.pdftalk.de/doku.php?id=complexvalues)
 * [PostScript](https://wiki.pdftalk.de/doku.php?id=postscript)
 * [RDF](https://wiki.pdftalk.de/doku.php?id=rdf)
-* Symbolics Graphics
-* PDFtalk Extract
+* [Symbolics Graphics](https://github.com/PDFtalk/.github/wiki/Symbolics-Graphics)
+* [PDFtalk Extract](https://github.com/PDFtalk/.github/wiki/PDFtalk-Extract)
 * [Smalltalk Transform Project](https://wiki.pdftalk.de/doku.php?id=smalltalktransform)
