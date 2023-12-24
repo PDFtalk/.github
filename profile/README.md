@@ -9,7 +9,7 @@ The projects to be described will be:
 * [Report4PDF](http://smalltalk-bob.blogspot.com/2012/01/pdf-report-and-law-of-demeter.html)
 * [Values](https://github.com/PDFtalk/.github/wiki/Values)
 * [PostScript](https://github.com/PDFtalk/.github/wiki/PostScript)
-* [RDF](https://wiki.pdftalk.de/doku.php?id=rdf)
+* [RDF](https://github.com/PDFtalk/.github/wiki/RDF-Project)
 * [Symbolics Graphics](https://github.com/PDFtalk/.github/wiki/Symbolics-Graphics)
 * [PDFtalk Extract](https://github.com/PDFtalk/.github/wiki/PDFtalk-Extract)
 * [Smalltalk Transform Project](https://wiki.pdftalk.de/doku.php?id=smalltalktransform)
