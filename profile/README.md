@@ -1,6 +1,6 @@
 # PDFtalk
 PDFtalk is a Smalltalk library for PDF.
-More information can be found at https://wiki.pdftalk.de.
+More information can be found at https://pdftalk.de.
 
 This will be the new place for everything related to the project. Gradually, the old content will be rewritten and freshly organized. Any help is welcome.
 
