@@ -12,4 +12,4 @@ The projects to be described will be:
 * [RDF](https://github.com/PDFtalk/RDF)
 * [Symbolics Graphics](https://github.com/PDFtalk/Symbolics-Graphics)
 * [PDFtalk Extract](https://github.com/PDFtalk/PDFtalk-Extract)
-* [Smalltalk Transform](https://github.com/PDFtalk/Smalltalk-Transform)
+* [Smalltalk Transform Project](https://github.com/PDFtalk/Smalltalk-Transform-Project)
