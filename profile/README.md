@@ -7,7 +7,7 @@ This will be the new place for everything related to the project. Gradually, the
 PDFtalk is the base project from which several related projects originated.
 The projects to be described will be:
 * [Report4PDF](http://smalltalk-bob.blogspot.com/2012/01/pdf-report-and-law-of-demeter.html)
-* [Values](https://github.com/PDFtalk/.github/wiki/Values)
+* [Values](https://github.com/PDFtalk/Values)
 * [PostScript](https://github.com/PDFtalk/.github/wiki/PostScript)
 * [RDF](https://github.com/PDFtalk/.github/wiki/RDF-Project)
 * [Symbolics Graphics](https://github.com/PDFtalk/.github/wiki/Symbolics-Graphics)
